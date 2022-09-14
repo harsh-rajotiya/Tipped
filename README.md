@@ -26,7 +26,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/harsh-rajotiya/Tipped/blob/main/tipcalculatorgif.gif />
+<img src='https://github.com/harsh-rajotiya/Tipped/blob/main/tipcalculatorgif.gif' />
 
 
 ## License
