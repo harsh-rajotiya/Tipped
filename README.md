@@ -1,6 +1,5 @@
 # Tipped
 It is a tip calculator. After entering tip percentage, tip and the total amount will be calculated.
-# Tip Calculator 
 
 ## *Harsh Rajotiya*
 
