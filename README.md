@@ -5,7 +5,7 @@ It is a tip calculator. After entering tip percentage, tip and the total amount 
 
 **Tipped** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Functionality 
 
